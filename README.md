@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🛠️ I'm Cloud Specialist at AmbevTech
 - 🌱 I’m currently learning K8s, Terraform, Go Lang
-- 👯 I’m collaborated on CNCF Glossary Localizations to Brazil Portuguese
+- 👯 I’ve collaborated on CNCF Glossary Localizations to Brazil Portuguese
 - 😄 Pronouns: He/Him 
 
 <div align="center">
