@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🛠️ I'm Cloud Specialist II at AmbevTech
-- 🌱 I’m currently learning Terraform, Azure, Go Lang, Python, FinOps
+- 🌱 I’m currently learning Azure, Python, FinOps
 - 👯 I’ve collaborated on CNCF Glossary Localizations to Brazil Portuguese
 - 😄 Pronouns: He/Him 
 
