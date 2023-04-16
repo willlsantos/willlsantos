@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Azure, Python, FinOps
 - 👯 I’ve collaborated on CNCF Glossary Localizations to Brazil Portuguese
 - 😄 Pronouns: He/Him 
+- :infinity: Autistic Person 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/willian-dos-santos-oliveira-a4442682/">
