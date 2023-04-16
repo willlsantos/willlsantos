@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🛠️ I'm Cloud Specialist II at AmbevTech
 - 🌱 I’m currently learning Azure, Python, FinOps
-- 👯 I’ve collaborated on CNCF Glossary Localizations to Brazil Portuguese
+- 👯 I’ve collaborated on CNCF Glossary Localizations to Brazil Portuguese and DevOps Days Rio de Janeiro Organizer
 - 😄 Pronouns: He/Him 
 - :infinity: Autistic Person 
 
